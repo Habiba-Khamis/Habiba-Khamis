@@ -4,7 +4,7 @@
 
 ### These Are Some Of The Things That I'm Interested In:
 - Tech.
-- Spots Science.
+- Sports Science.
 - Entrepreneurship.
 - Language Learning.
 - Books.
