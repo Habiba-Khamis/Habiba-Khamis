@@ -6,7 +6,7 @@
 - Tech.
 - Sports Science.
 - Entrepreneurship.
-- Language Learning.
+- Languages.
 - Books.
 - Neuroscience.
   
