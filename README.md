@@ -1,8 +1,8 @@
 # Hey! I'm Habiba 😎
 
-### I can teach myself anything.. So, I'm learning Software Engineering
+### I Can Teach Myself Anything.. So, I'm On My Journey To Master Software Engineering. 
 
-### These are some of the things I'm interested in
+### These Are Some Of The Things That I'm Interested In:
 - Tech.
 - Spots Science.
 - Entrepreneurship.
