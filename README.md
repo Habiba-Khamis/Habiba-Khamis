@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hey! I'm Habiba 😎
 
+### I can teach myself anything.. So, I'm learning Software Engineering
+
+### These are some of the things I'm interested in
+- Tech.
+- Spots Science.
+- Entrepreneurship.
+- Language Learning.
+- Books.
+- Neuroscience.
+  
+### And Much More.. 
 <!--
 **Habiba-Khamis/Habiba-Khamis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
